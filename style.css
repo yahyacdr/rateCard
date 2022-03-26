@@ -394,6 +394,9 @@ body {
     html {
         font-size: 20px;
     }
+    .card {
+        width: 27%;
+    }
 }
 @media (min-width: 1920px) and (min-height: 1080px) {
     html {
